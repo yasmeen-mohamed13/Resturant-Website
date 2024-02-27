@@ -1,0 +1,71 @@
+.first-div{
+    padding-top: 20px;
+    background-color: #EBEBEB;
+}
+
+.tilte{
+    text-align: center;
+    background-image: url("../../../assets/Images/pizzas-bg-shape.9ffeb48cea8081705eac.png");
+    background-repeat: no-repeat;
+    background-position-x: 0;
+    background-position-y:0;
+    background-size: 100%;
+    padding-top: 20px;
+}
+
+h2{
+    color: black;
+    font-size: 20px;
+    font-family: Open Sans;
+}
+
+.h2{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.viewAll-1{
+    padding-top: 10px;
+}
+
+.viewAll{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.viewAll:hover{
+    color: rgba(0, 0, 0, 0.432);
+}
+
+.icon{
+    background-color: rgba(0, 0, 0, 0.755);
+    padding: 3px 10px;
+    border-radius: 50%;
+    color: white;
+}
+
+.viewAll:hover .icon{
+    background-color: rgba(0, 0, 0, 0.432);
+
+}
+
+.product{
+    padding: 20px 20px;
+}
+
+
+.child
+{
+transition: all 1.1s;
+}
+.parent:hover .child
+{
+    transform: scale(1.2);
+}
+
+
+.mycard{
+    border: none;
+    box-shadow: -3px 4px 5px rgba(0, 0, 0, 0.45);
+}
